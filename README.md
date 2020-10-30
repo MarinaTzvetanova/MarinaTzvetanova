@@ -16,5 +16,5 @@
 
 
 <p>
-<img width="55%" align="right" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="width:50%;">
+<img width="55%" align="right" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="max-width:50%;">
 </p>
