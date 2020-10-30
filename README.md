@@ -16,7 +16,5 @@
 
 
 <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ValeriMladenov/ValeriMladenov/87110469441a6ad2f4369de348900faabc4ff63a/githeader.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/ValeriMladenov/ValeriMladenov/87110469441a6ad2f4369de348900faabc4ff63a/githeader.svg" style="max-width:100%;">
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/ValeriMladenov/ValeriMladenov/87110469441a6ad2f4369de348900faabc4ff63a/githeader.svg" style="max-width:100%;">
-  </a>
+<img width="55%" align="right" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="max-width:100%;">
 </p>
