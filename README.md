@@ -13,8 +13,6 @@
 - 💬 Ask me about tech related stuff.
 - 📨 How to reach me: marina_vratsa@abv.bg
 - ⚡ Fun fact: I am only 14 years old
-<p>
-<img width="55%" align="right" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="max-width:50%;">
-</p>
+
 <img width="55%" align="right" alt="Marina's github stats" src="https://github-readme-stats.vercel.app/api?username=MarinaTzvetanova&&show_icons=true&title_color=662d4e&icon_color=662d4e&text_color=662d4e&bg_color=ffffff;show_icons=true&amp;hide_border=true" style="max-width:100%;">
 
