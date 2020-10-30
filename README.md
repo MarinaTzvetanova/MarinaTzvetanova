@@ -14,7 +14,7 @@
 - 📨 How to reach me: marina_vratsa@abv.bg
 - ⚡ Fun fact: I am only 14 years old
 
-<img src="https://twitter.com/intent/follow?screen_name=MarinaTzvetano2" alt="Twitter: MarinaTzvetano2" data-canonical-src="https://img.shields.io/twitter/follow/@MarinaTzvetano2?style=social" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/9e697dc7c10fa1a6234b72c7e267519694fd96d8/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f696d746865706b3f7374796c653d736f6369616c" alt="Twitter: MarinaTzvetano2" data-canonical-src="https://img.shields.io/twitter/follow/MarinaTzvetano2?style=social" style="max-width:100%;">
 <img align="center" src="https://camo.githubusercontent.com/42d7149e76d6f70e3e86351b330b0c7e2b843324/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69616d706177616e267468656d653d6c6967687426686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&amp;theme=light&amp;hide_langs_below=1" style="max-width:100%;"><img width="48%" align="top-right" alt="Marina's github stats" src="https://github-readme-stats.vercel.app/api?username=MarinaTzvetanova&&show_icons=true&title_color=662d4e&icon_color=662d4e&text_color=662d4e&bg_color=ffffff;show_icons=true&amp;hide_border=true" style="max-width:100%;">
 
 
