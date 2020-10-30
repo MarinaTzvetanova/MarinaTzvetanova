@@ -14,7 +14,7 @@
 - 📨 How to reach me: marina_vratsa@abv.bg
 - ⚡ Fun fact: I am only 14 years old
 
-<p>
-<img width="55%" align="top-right" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="max-width:100%;">
+
+<img width="55%" align="right-top" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="max-width:100%;">
 
 
