@@ -15,9 +15,9 @@
 - ⚡ Fun fact: I am only 14 years old
 
 
-<a href="https://github.com/ValeriMladenov/MarinaTZvetanova">
+<a href="https://github.com/MarinaTzvetanova/MarinaTZvetanova">
     <img align="center" src="https://camo.githubusercontent.com/e716b9f81ec2dc47dd110e9cc4e4add2f8f42870/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d56616c6572694d6c6164656e6f76267265706f3d466169626c65722d46726f6e74656e64" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ValeriMladenov&amp;repo=Faibler-Frontend" style="max-width:100%;">
   </a>
-<a href="https://github.com/ValeriMladenov/DreamMedia">
+<a href="https://github.com/MarinaTzvetanova/DreamMedia">
     <img align="center" src="https://camo.githubusercontent.com/db1dc30aef8c1fad5966e145376c96095bd1682a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d56616c6572694d6c6164656e6f76267265706f3d466169626c65722d4261636b656e64" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=ValeriMladenov&amp;repo=Faibler-Backend" style="max-width:100%;">
   </a>
