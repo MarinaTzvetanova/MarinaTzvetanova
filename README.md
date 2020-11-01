@@ -19,7 +19,7 @@ g src="https://camo.githubusercontent.com/4419e6b1071b205d82a15506ee6efe58776626
 - 📨 How to reach me: marina_vratsa@abv.bg
 - ⚡ Fun fact: I am only 14 years old
 
-<img width="100%" align="right" alt="DRM" src="hhttps://www.dreammedia.bg/img/logo.png" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ValeriMladenov/ValeriMladenov/87110469441a6ad2f4369de348900faabc4ff63a/githeader.svg"><img width="55%" align="right" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="max-width:100%;"></a>
 
 <img align="center" src="https://camo.githubusercontent.com/42d7149e76d6f70e3e86351b330b0c7e2b843324/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69616d706177616e267468656d653d6c6967687426686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&amp;theme=light&amp;hide_langs_below=1" style="max-width:100%;"><img width="47%" align="top-right" alt="Marina's github stats" src="https://github-readme-stats.vercel.app/api?username=MarinaTzvetanova&&show_icons=true&title_color=662d4e&icon_color=662d4e&text_color=662d4e&bg_color=ffffff;show_icons=true&amp;hide_border=true" style="max-width:100%;"> 
 
