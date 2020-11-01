@@ -18,6 +18,9 @@ g src="https://camo.githubusercontent.com/4419e6b1071b205d82a15506ee6efe58776626
 - 💬 Ask me about tech related stuff.
 - 📨 How to reach me: marina_vratsa@abv.bg
 - ⚡ Fun fact: I am only 14 years old
+<strong>Languages and Tools:</strong>
+<img width="10%" src="https://camo.githubusercontent.com/a6b5be065879d83cc7873a4c485ac3bc1f33bb2f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7068702f7068702d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" style="max-width:100%;"> <img width="10%" src="https://camo.githubusercontent.com/c107b70b074bcc319da192aba5e5b5e9b88c411a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" style="max-width:100%;"> <img width="10%" src="https://camo.githubusercontent.com/ca58986c1f0a15af8c0207377272e1e7c1368520/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" style="max-width:100%;"> 
+
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ValeriMladenov/ValeriMladenov/87110469441a6ad2f4369de348900faabc4ff63a/githeader.svg"><img width="55%" align="right" alt="Github" src="https://www.dreammedia.bg/img/logo.png" style="max-width:60%;"></a>
 
