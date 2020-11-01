@@ -1,4 +1,4 @@
-### Hello I'm [Marina Nikolova](https://www.dreammedia.bg/), Web Developer 👋
+### Hello I'm Marina Tzvetanova, Web Developer 👋
 
 <p>
   <a href="https://github.com/MarinaTzvetanova"><img src="https://camo.githubusercontent.com/71306d540e1cc165cf679a0eb24b6a88f1aae9be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
