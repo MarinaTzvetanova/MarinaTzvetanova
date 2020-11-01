@@ -11,7 +11,6 @@ g src="https://camo.githubusercontent.com/4419e6b1071b205d82a15506ee6efe58776626
 <a href="https://www.dreammedia.bg/" rel="nofollow"><img src="https://camo.githubusercontent.com/f75244383c714858b0766580d60af9fc0bd44c83/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f75726c3d687474707325334125324625324676616c6572692e6d6c" alt="Website" data-canonical-src="https://img.shields.io/website?url=https%3A%2F%2Fvaleri.ml" style="max-width:100%;"></a></p>
 
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ValeriMladenov/ValeriMladenov/87110469441a6ad2f4369de348900faabc4ff63a/githeader.svg"><img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/73702043/97802066-ae749b80-1c49-11eb-855c-d468bdef8e9f.png" style="max-width:100%;" https:="" user-images.githubusercontent.com=""></a>
  <img width="55%" align="right" alt="DRM" src="https://user-images.githubusercontent.com/73702043/97802066-ae749b80-1c49-11eb-855c-d468bdef8e9f.png" style="max-width:100%;" https:="" user-images.githubusercontent.com="">
 </p>
 
