@@ -17,7 +17,7 @@ g src="https://camo.githubusercontent.com/4419e6b1071b205d82a15506ee6efe58776626
 - 🖥️ I’m currently working on [DreamMedia New Website](https://www.dreammedia.bg/).
 - 📚 I’m currently learning TypeScript.
 - 💬 Ask me about tech related stuff.
-- 📨 How to reach me: marina_vratsa@abv.bg
+- 📨 How to reach me: workmarina@abv.bg
 - ⚡ Fun fact: I am only 14 years old
 
 <a href="https://github.com/MarinaTzvetanova">
