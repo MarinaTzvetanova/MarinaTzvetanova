@@ -1,7 +1,5 @@
 ### Hello I'm [Marina Nikolova](https://www.dreammedia.bg/), Web Developer 👋
 
-<img src="https://camo.githubusercontent.com/b08b0a41794bdfbc0314c43b09f34d3974952ad1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69616d706177616e266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="iampawan" data-canonical-src="https://komarev.com/ghpvc/?username=iampawan&amp;label=Views&amp;color=blue&amp;style=plastic" style="max-width:100%;">
-
 <p>
   <a href="https://github.com/MarinaTzvetanova"><img src="https://camo.githubusercontent.com/71306d540e1cc165cf679a0eb24b6a88f1aae9be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
   <img src="https://camo.githubusercontent.com/4419e6b1071b205d82a15506ee6efe58776626a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Mail" data-canonical-src="https://img.shields.io/badge/-Mail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
