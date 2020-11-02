@@ -21,7 +21,7 @@ g src="https://camo.githubusercontent.com/4419e6b1071b205d82a15506ee6efe58776626
 - ⚡ Fun fact: I am only 14 years old.
 
 <a href="https://github.com/MarinaTzvetanova">
-    <img width="55%" align="right" alt="Marina's github stats" src="https://github-readme-stats.vercel.app/api?username=MarinaTzvetanova&&show_icons=true&title_color=75c5f0&icon_color=75c5f0&text_color=75c5f0bg_color=ffffff hide-border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MarinaTzvetanova&amp;show_icons=true&amp;" style="max-width:100%;">
+    <img width="55%" align="right" alt="Marina's github stats" src="https://github-readme-stats.vercel.app/api?username=MarinaTzvetanova&&show_icons=true&title_color=75c5f0&icon_color=75c5f0&text_color=75c5f0bg_color=ffffff&snow-icon=true&hide-border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MarinaTzvetanova&amp;show_icons=true&amp;" style="max-width:100%;">
   </a>
 
 <strong>Languages and Tools:</strong>
